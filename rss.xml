@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+	<rss version="2.0">
+		<channel>
+			<item>
+				<title>Boks klub Knockout</title>
+				<description>Dobrodošli na sajt našeg boks kluba Knockout!</description>
+				<link>https://ruzic1.github.io/index.html</link>
+			</item>
+			<item>
+				<title>Boks klub Knockout - treninzi</title>
+				<description>Usled epidemije covid-19 virusa, treninzi će se odvijati sat vremena, posle 18h sala se zatvara, dok je cena programa snižena za 15%!</description>
+				<link>https://ruzic1.github.io/cenovnik.html</link>
+			</item>
+			<item>
+				<title>Boks klub Knockout - srećni novogodišnji praznici</title>
+				<description>Želimo srećnu Novu godinu, kao i sve novogodišnje praznike svima koji slave i da Vam bude najbolja do sada!</description>
+				<link>https://ruzic1.github.io/index.html</link>
+			</item>
+		</channel>
+	</rss>
